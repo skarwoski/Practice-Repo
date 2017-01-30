@@ -1,4 +1,3 @@
-# gitrepo
 <!DOCTYPE html>
 <body style="background-color:maroon"></body>
 	<title>gitRepo Notes</title>
