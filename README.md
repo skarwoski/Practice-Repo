@@ -1,12 +1,16 @@
 # gitrepo
-Folder number two
-text`test
-test text here for gitrepo
-test text here
-test text here
-return
-**bold text here**
-< br />
-*stefanie in italics*
-<br text here>
-br stefanie 
+<!DOCTYPE html>
+<html>
+<body style="background-color:maroon"></body>
+<head>
+	<title>gitRepo Notes</title>
+</head>
+<body>
+<h1>UNEX Folder II</h1>h1>
+<br>
+<br>
+<h2>Latin, latin, latin</h2>
+<br>
+<p>paragraph, paragraph, paragraph</p>p>
+</body>
+</html>
