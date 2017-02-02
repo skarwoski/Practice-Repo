@@ -8,7 +8,9 @@
 <header>Stefanie's repository for UC Ext. WebDev Class</header>
 <h2>heading 2</h2>
 <body>
-Stefanie
+<body style="background-color:powderblue;">
+
+<h3>Stefanie</h3>
 k
 text here
 Hello World
