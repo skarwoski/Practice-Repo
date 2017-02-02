@@ -5,6 +5,7 @@
 	<title>Stefanie's repository for UC Ext. WebDev Class</title>
 </head>
 
+<header>Stefanie's repository for UC Ext. WebDev Class</header>
 <h2>heading 2</h2>
 <body>
 Stefanie
