@@ -4,23 +4,9 @@
 <head>
 	<title>Stefanie's repository for UC Ext. WebDev Class</title>
 </head>
-
-<header>Stefanie's repository for UC Ext. WebDev Class</header>
-<h2>heading 2</h2>
-<body>
-<body style="background-color:powderblue;">
-
-<h3>Stefanie</h3>
-k
-text here
-Hello World
-text
-here
-latin, latin
-first website
-<br>
-<br>
-another line
-another line
-</body>
-</html>
+<p>test first paragraph</p>
+<div class="ul item001">cat</div>
+<div class="ul item002">dog</div>
+<div class="ul item003">monkey</div>
+<div class="ul item004">sheep</div>
+<div class="ul item005">elephant</div>
